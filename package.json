@@ -2,7 +2,7 @@
   "name": "contraste-claro",
   "displayName": "Contraste Claro",
   "description": "Light theme with WCAG AA contrast and strong highlights for errors, warnings, git changes and search.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "publisher": "silasdouglas",
   "engines": { "vscode": "^1.70.0" },
   "categories": ["Themes"],
