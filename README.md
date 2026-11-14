@@ -1,5 +1,7 @@
 # Contraste Claro
 
+[Português (Brasil)](README.pt-BR.md)
+
 A light VS Code theme focused on readable contrast and on making important information stand out.
 
 - Every syntax color meets WCAG AA (≥ 4.5:1) against the editor background.
